@@ -12,14 +12,14 @@ EditorBuildSettings:
     path: Assets/NIVELES/Scenes/ASCENSOR1.unity
     guid: c15bb6e11816df24cba279b141a020e5
   - enabled: 1
-    path: Assets/NIVELES/Scenes/CAMERINO PROTOTIPO.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/NIVELES/Scenes/SALA PRACTICAS.unity
+    guid: 25f2835aa10355943ba5b3563adb00c0
   - enabled: 1
     path: Assets/NIVELES/Scenes/ASCENSOR2.unity
     guid: 58f66d6cd45442348a6fce2bcf8a08f1
   - enabled: 1
-    path: Assets/NIVELES/Scenes/SALA PRACTICAS.unity
-    guid: 25f2835aa10355943ba5b3563adb00c0
+    path: Assets/NIVELES/Scenes/CAMERINO PROTOTIPO.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/NIVELES/Scenes/ASCENSOR3.unity
     guid: 097575bf8e2ce48459625990322260bc
